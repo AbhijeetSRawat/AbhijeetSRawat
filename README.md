@@ -2,15 +2,11 @@
 <h3 align="center">MERN Stack Developer | Problem Solver | Full-Stack Enthusiast</h3>
 
 - 🔭 I’m currently working on **Open Source Contributions and Full-Stack MERN Projects**
-- 🌱 I’m learning **Advanced MERN, GraphQL, System Design, and Firebase**
+- 🌱 I’m learning **Advanced MERN and Data Structures and Algorithm**
 - 👯 I’m looking to collaborate on **MERN stack & DSA projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS, Firebase, and DSA**
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS, and DSA**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abhijeet-singh-rawat-8079011ab)**
 - ⚡ Fun fact: I solve daily DSA challenges and enjoy building scalable web apps 📈
-
-### Notable Projects:
-- **STUDYNOTION**: A secure course enrollment platform with authentication and role-based access using React, Node.js, MongoDB, and Firebase.
-- **PENNYTRACK**: A real-time expense tracker app powered by React, Firebase, and TailwindCSS.
 
 ---
 
